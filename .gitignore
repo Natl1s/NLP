@@ -1,0 +1,9 @@
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+*/files/.ipynb_checkpoints/*
+*.gz
+*.bz2
+*.vec
+*.keras
+lab3/models/*
+lab6/model
